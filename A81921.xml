@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Madam, although my former freedom in writing might rather give me occasion to beg pardon for a fault committed ...</title>
+            <author>Dury, John, 1596-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81921</idno>
+            <idno type="STC">Wing D2870</idno>
+            <idno type="STC">Thomason E288_14</idno>
+            <idno type="EEBO-CITATION">99860903</idno>
+            <idno type="PROQUEST">99860903</idno>
+            <idno type="VID">158567</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81921)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158567)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E288[14a])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Madam, although my former freedom in writing might rather give me occasion to beg pardon for a fault committed ...</title>
+                  <author>Dury, John, 1596-1680.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Dury by Wing.</note>
+                  <note>Title from opening words of text.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Concerning Dury's marriage.</note>
+                  <note>Annotation on Thomason copy: "Mr Durys letter to ye Lady Ranalet"; "June 13 1645".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>With: Madam, ever since I had a resolution to make a change in my life by marriage ... / [by John Dury. London : s.n., 1645]</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ranelagh, --  Lady --  Early works to 1800.</term>
+               <term>Dury, John, 1596-1680. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:158567:1" rendition="simple:additions"/>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough my former freedom in writing might rather give me occaſion to beg pardon for a fault committed, then to proceed in the ſame kind: Yet I know not how it commeth to paſſe, that in ſtead of repenting and abſtaining, I am drawne to re<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>terate and aggravate this fault, by a higher preſumption. The cauſe of this irregular motion in my ſpirit I can attribute to nothing but to that which all ſinners may pretend for their excuſe; namely, a ſtrong bent of deſire, and an inclination moving me irreſi<g ref="char:EOLhyphen"/>ſtibly to doe what I am about to doe: together, with a ſecret hope and promiſe to my ſelfe of forgiveneſſe grounded upon your obliging diſpoſition: Upon ſuch motives as theſe we all ſinne againſt God. If then you will be ſo patient to beare with me, as he doth with ſinners, till they may be reclaimed, and ſo bountifully kind as to imitate him, in uſing meanes to cure my diſtemper; I will be thankfull, &amp; truly acknowledging the merit of your vertue, be bound to ſerve you and honour your Sex. For I muſt confeſſe that partly the ſilly weakneſſe, and want of capacitie, which doth appeare in moſt of the Fe<g ref="char:EOLhyphen"/>male kind; partly, the diſproportion of ſpirit which I have found in my ſelf fro<g ref="char:cmbAbbrStroke">̄</g> the waies of their converſation, hath kept me at a diſtance, till of late one whom you know hath made me perceive, both by her ſelfe, and by the Characters of your excellent ſpirit, which I find in ſome of your Letters unto her, that God hath not deprived that part of mankind of eminent graces, with ſtrength of parts and abilities to do him ſpirituall ſervice, &amp; to be more helpefull in ſome things towards the ad<g ref="char:EOLhyphen"/>vancement of the Kingdom of his Son then even Men them<g ref="char:EOLhyphen"/>ſelves. Upon this diſcoverie, I confeſſe my inclination to con<g ref="char:EOLhyphen"/>verſe did grow more free, and the prejudice, which made
+<pb n="2" facs="tcp:158567:2"/> me ſhie, being taken away, my affection was inlarged to be willing to contribute unto that ſubject which I found moſt ſuſceptible of the beſt Motions, moſt apprehenſive of the chiefeſt Aimes and moſt generouſly active and reſolute to ſet forward the fitteſt Meanes and Wayes leading thereunto; that aſſiſtance and helpe, which my calling in the profeſſion of the Goſpel did oblige me to afford. And in continuance of this indeavour, ſome intimacie being growne betwixt us, and a ſettlement of that reſolution (which I had long before vow<g ref="char:EOLhyphen"/>ed, maintained, and practiſed, to live no more to my ſelfe, but unto the Communion of Saints,) Being then alſo begot<g ref="char:EOLhyphen"/>ten in her, I found that ſhe was capable, not onely of a Mo<g ref="char:EOLhyphen"/>rall, but of a Spirituall friendſhip: And therefore upon her departure into <hi>Ireland,</hi> after that I had beene in <hi>Holland,</hi> I propoſed unto her the heads of a Covenant of ſpiritual friend<g ref="char:EOLhyphen"/>ſhip, to be maintained for the Aimes of publike and mutuall Edification, as well at a diſtance as when we ſhould be neere at hand. In this Bond, and in the faithfull and ſingle proſecu<g ref="char:EOLhyphen"/>tion of the duties thereof we have continued till this day, upon ſeverall occaſions confirming and rectifying our pur<g ref="char:EOLhyphen"/>poſes therein by ſuch Rules as the Word of God through the ſpirit of divine and common. Love have revealed unto us. Now the onely thing, which I for my part have ever found a hin<g ref="char:EOLhyphen"/>derance and diſtraction from the accompliſhment of the du<g ref="char:EOLhyphen"/>ties whereunto we are bound, which doth ordinarily clog the proſecution, and fruſtrate the effecting of that for which God hath moved us to contract this friendſhip is meerely the want of freedome to communicate upon all occaſions our thoughts one to another, which is occaſioned by the diſtance of our abode. This doth put both my ſpirit within me to a perpetuall ſtraitneſſe, and the proſecution of my Worke in publike without me to a lingring ſlowneſſe. For ſeeing I find it impoſſible at ſuch a diſtance as we have lived, and ſtill live in theſe buſie times, to ſatisfie that tye which our friend<g ref="char:EOLhyphen"/>ſhip doth put upon my conſcience, either for the publike Edifi<g ref="char:EOLhyphen"/>cation of many, or for the private comforts of each other a<g ref="char:EOLhyphen"/>gainſt the cauſes of common perplexities, whereunto all pri<g ref="char:EOLhyphen"/>vate
+<pb n="3" facs="tcp:158567:2"/> conditions are involved. Seeing, I ſay, I find it impoſſi<g ref="char:EOLhyphen"/>ble at ſuch a diſtance to ſatisfie in ſuch occurrences and for ſuch ends my conſcience chiefly in point of readie deliberati<g ref="char:EOLhyphen"/>on, or ſeaſonable execution of that, whereunto the love of Gods ſervice, as well in publike as in private doth bind me, and that onely by reaſon of our diſtance; therefore I have oft deſired, that a way may be found to remove it: But becauſe I find other inconveniences in the removall thereof, which will enſue in reſpect of the world, which will blaſt the fruit of all our intentions, except ſome neerer relation prevent the ſame; and becauſe I ſee no warrant to ſtint the increaſe of friendſhip and divine love from the neareſt relations for hu<g ref="char:EOLhyphen"/>mane reſpects, nor is it conſcionable, without Gods owne way, to confirme the application of ones ſelfe to one particular, more then to many, with a reſtraint of the Spirit, from inten<g ref="char:EOLhyphen"/>ding others in the ſame degree, who may be, if not alike ca<g ref="char:EOLhyphen"/>pable, yet no leſſe inclinable to ſerve God in the ſame way; I ſay, Madam, for theſe and ſome other cauſes now to be omit<g ref="char:EOLhyphen"/>ted, I am neceſſitated to breake through humane reſpects, by caſting my ſelfe upon God, who doth in the capacitie of your Spirit open a doore unto me to ſee a way through the obſta<g ref="char:EOLhyphen"/>cles, which otherwiſe might ſeeme impaſſable. For I am con<g ref="char:EOLhyphen"/>fident, that your Ladyſhip is able to diſcerne what hand God hath in this buſineſſe of our continued acquaintance, and I make no doubt but you alſo ſee cleerly, that I will be conſtrai<g ref="char:EOLhyphen"/>ned in the end either to faile in friendſhip by not fulfilling a Covenant made in the feare of God, (which is a thing intole<g ref="char:EOLhyphen"/>rable to my verie thought to apprehend) or to neglect Gods ſervice in the Goſpel of peace, and Communion of Saints, to which I am more bound then to the former, by how much this Aime is the more Univerſall then that, (which is as grie<g ref="char:EOLhyphen"/>vous and leſſe ſupportable to my thoughts) except the publike and private relations, under which we both ſtand, be brought to be one &amp; the ſame in their due ſubordination, which cannot be done without the neareſt conjunction of our perſons in the freedome of all manner of commerce, for the performance of theſe duties and endeavours, upon which our intimacie is
+<pb n="4" facs="tcp:158567:3"/> grounded; and without which it is not lawfull, as being not ſubordinate unto the glorie of God. I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> t<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en the cauſes of our diſtance doe really diſturbe my peace, and make my ſtraitned ſpirit lead a weariſome life; and if theſe obſtacles of our law<g ref="char:EOLhyphen"/>ful conjunction hinder us both from the work of Gods glo<g ref="char:EOLhyphen"/>rie in our callings, which might many wayes more comforta<g ref="char:EOLhyphen"/>bly then now it is, be performed; and if your ſpirituall Sa<g ref="char:EOLhyphen"/>gacitie cannot but find this to be ſo: I may (I hope) without deſpaire of Pardon preſume to make this requeſt, that you would be pleaſed to repreſent this caſe unto your Aunt, who is here, to deſire her to remove the impediment of which I complaine, by that approach which may be honourable before God and Man, and give me the full freedome of performing all duties which God doth require of thoſe whom he maketh one bodie for his ſervice. As for any doubts which ſhe might have had concerning the ſtate of Marriage, and the uſefulneſſe thereof to Gods glorie, I have by generall diſcourſes endea<g ref="char:EOLhyphen"/>voured to take them away, and am confident, by the grace of God, that all ſcruples, that either ſhe or any in her condition may have about that matter, will eaſily be reſolved. There<g ref="char:EOLhyphen"/>fore I cannot but ſeeke, that ſhe may fulfill her part towards the full accompliſhment of the effect of our Covenant, al<g ref="char:EOLhyphen"/>though I neither at firſt, nor a long time after, did conjecture any neceſſitie of ſuch a ſequele as now I find inforced (by the circumſtances into which God caſt, me) upon my intentions. And this, Madam, I could never have uttered unto any of her friends, beſides your ſelfe, becauſe <hi>I</hi> know that there is none to whom ſhe hath ſo great confidence; and <hi>I</hi> beleeve, there is none able to judge better of the caſe then you are, as being fully perſwaded of your Spirituall and Rationall parts; for which cauſe you may ſee, that <hi>I</hi> have put the truſt of my ſelf, &amp; of the ſecrets of my heart, upon which the chiefe comforts which <hi>I</hi> expect in this temporall life depend, in your hand, to uſe them as your conſcience to the love of Gods glorie ſhall direct you: For <hi>I</hi> proteſt truely in his preſence, that it is no worldly deſire, nor earthly intention, nor perſonall paſſion, (although <hi>I</hi> cannot wholly denie the affections of humanitie)
+<pb n="5" facs="tcp:158567:3"/> which doth ſway or lead me to this motion, but meerely the diſcharge of my dutie, to advance the glory of God in my Calling, by the fitteſt meanes which his providence doth af<g ref="char:EOLhyphen"/>ford. On him therefore I relye for ſucceſſe, according to the ſinceritie which he ſeeth in me; wherein alſo I will take my leave, commending your ſpirit in this and all other things to his gracious direction, who am</p>
+            <closer>
+               <salute>MADAM,</salute>
+               <signed>Your Ladyſhips moſt humble and faithfull Servant in Chriſt,</signed>
+               <date>This 4/14 <hi>December,</hi> 1644.</date>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>THis laſt Poſt brought me a great confirmation of my reſolution concerning Maſter <hi>N.</hi> which reſolution I deſire ſhould be knowne there: the ground of it is in his Letter to your Ladyſhip, therefore I ſend it againe; and the rather, becauſe I cannot poſſibly lay downe now the par<g ref="char:EOLhyphen"/>ticular Reaſons of this Union with him; which <hi>I</hi> thought to have done, for the ſatisfying ſuch who are either capable of Grace, or Reaſon: As for your ſelfe (with whom there is none ranked) <hi>I</hi> perceive your Ladyſhip takes up moſt of theſe things, which hath obliged me to yeeld to Maſter <hi>N.</hi> Propo<g ref="char:EOLhyphen"/>ſition; and therefore I am not much ſolicitous for others, knowing you will (as occaſion ſerves) informe all, as they are capable: which I muſt leave to you, beſeeching the Lord of life to fill you more with the abundance of his Grace, that you may ſtill be a helpe to Gods people, and a comfort in God, to</p>
+            <closer>
+               <salute>MADAM,</salute>
+               <signed>Your Ladyſhips moſt faithfull, humble, and moſt affectionate Servant,</signed>
+               <date>11 / 22 <hi>Febr.</hi> 1645.</date>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:158567:4"/>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>YOur Gratulatorie affection is no leſſe obliging then your interceſſion, and I hope the Lord will make me thankfull for all the bleſſings which he hath beſtowed upon me; amongſt which, that which you mention, of ſuch a Friend and Wife in one perſon is the greateſt in temporall things: and as he hath by his Grace joyned our hearts, not for worldly Ends, but for a Spirituall Aime of ſerving him; ſo I am confident, that he will direct us in that way which is moſt unblameable: and as we ſeeke not the honour and appearan<g ref="char:EOLhyphen"/>ces of this world, but are ſincerely bent to ſeeke the honour which is from God alone, without any ſhew in the world, that we may be counted worthy to partake of the Croſſe of Chriſt, and to be mortified unto the world with him; ſo I beleeve ſtedfaſtly, that God will ſanctifie us, and make us Veſſels of Honour for every good uſe in his Tabernacle, and quicken us by the reſurrection of Jeſus Chriſt, the more we ſhall be ly<g ref="char:EOLhyphen"/>able to the cenſures of the world. Yet I thinke it very fit, that ſome Meanes ſhould be uſed, ſuch as your Ladyſhip doth mention, to ſtop the cenſoriouſneſſe of worldly-minded Friends, which will be intended with the firſt occaſion by her, who will be more ſubject to be blamed by thoſe that conſider things after the fleſh, then I will be either by them or others. But we ſhall joyntly intend the clearing of our wayes towards Men, as we have approved them hitherto before God; that perhaps the eyes of ſuch as are dimme may ſee ſomewhat clearer then yet they doe the purpoſes of our life, which ſhall truely be dedicated in all faithfulneſſe to your Ladyſhips com<g ref="char:EOLhyphen"/>forts, by</p>
+            <closer>
+               <salute>MADAM,</salute>
+               <signed>Your moſt affectionate and humble Servant in Chriſt.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:158567:4"/>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>YOur affectionate Congratulations to our Union, I make, no doubt, will be accompanied with your pray<g ref="char:EOLhyphen"/>ers to God for us, that we may be enabled to attaine the End of our lawfull Conjunction, and be ſtrengthned in the dutifull performance of thoſe Endeavours which have drawne us to this ſtate, which by Gods grace may be effectually uſefull to his Glory, and the Edification of o<g ref="char:EOLhyphen"/>thers, which is all the ground of the Comfort which wee ſeeke in one anothers Societie. I am bound therefore to prayſe God for this inclination and frame of ſpirit, where<g ref="char:EOLhyphen"/>by he hath joyned us firſt to himſelfe, then one to another, and laſtly, to all others who can underſtand what the End of every Chriſtians life is, as well in this as in any other Relation: and I rejoyce not a little, to ſee your Ladyſhips heartie Congratulations going along with us, upon this diſ<g ref="char:EOLhyphen"/>coverie and knowledge of our way in theſe proceedings. For although others, who are good in their owne degree, reach not to the Aimes which have brought us to this ſtate; yet in due time, by the abilitie which God hath endued your Lady<g ref="char:EOLhyphen"/>ſhip withall, I hope, their apprehenſions may be rectified, to looke upon matters with another Eye then hitherto they have done: it is a bleſſing of God to be prayed for unto them, to diſcerne the things moſt excellent; and when wee diſcerne them, to be reſolute in following them is a dutie which generous ſpirits will delight in. Would to God wee all could underſtand the ſaying of Chriſt, as he meant it; <hi>That which is highly eſteemed of Men, is abomination in the ſight of God.</hi> And in another place he ſayth, <hi>How can yee beleeve, that receive honour one of another, and ſeeke not the honour which is of God alone?</hi> Wee muſt ſpeake of our ſelves, and profeſſe, that wee count nothing eſtimable or honourable, but what is uſefull to his ſervice, in the life
+<pb n="8" facs="tcp:158567:5"/> of Chriſt; and nothing is uſefull that way, but that which crucifieth the world to us, and us to the world, in reſpect of the faſhion of it, and outward ſurface of things, which is void of Realitie. All that imaginarie Subſtance, and Accidentall Frame of Corruptible Matters, which maketh a ſhew in this preſent World, doth bring us under a Yoake of Bondage, and depriveth us of the glorious li<g ref="char:EOLhyphen"/>bertie of the Spirit of Adoption, in ſome degree or o<g ref="char:EOLhyphen"/>ther, as wee yeeld thereunto. Therefore, as our ſence is, ſo wee will in our practice really endeavour to beare wit<g ref="char:EOLhyphen"/>neſſe to this Truth unto every one; and I ſuppoſe, my Wife would rather her Friends ſhould receive ſatisfaction, in reading her reall performances of duties to God, then any Apologies or Verball Juſtifications. But I muſt needs breake off, as being ſtraitned in time; therefore I can ſcarce read over what is here written in haſte: onely I muſt ſay in truth, that I am</p>
+            <closer>
+               <signed>Your Ladyſhips moſt humbly affectionate and obliged Servant,</signed>
+               <dateline>
+                  <date>4 / 14 <hi>April,</hi> 1645.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
